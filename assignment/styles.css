@@ -1,0 +1,15 @@
+header{
+    background-color: navy;
+    color: white;
+    text-align: center;
+}
+main{
+    background-color: lightgrey;
+    padding: 1em;
+}
+html{
+    background-image: url('../../assignment-unit-5.1/assignment/record.png');
+}
+body{
+    margin: 0;
+}
